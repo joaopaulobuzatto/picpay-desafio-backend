@@ -15,7 +15,7 @@ Projeto elaborado para solucionar [esse desafio](https://github.com/PicPay/picpa
 
 ## Como Executar
 
-- Clonar repositório git: git@github.com:joaopaulobuzatto/picpay-desafio-backend.git
+- Clonar repositório git: [git@github.com:joaopaulobuzatto/picpay-desafio-backend.git](https://github.com/joaopaulobuzatto/picpay-desafio-backend.git)
 ```
 git clone 
 ```
